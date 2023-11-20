@@ -1,0 +1,13 @@
+C:\POO\08GetSet\obj\Debug\netcoreapp3.1\08GetSet.csprojAssemblyReference.cache
+C:\POO\08GetSet\obj\Debug\netcoreapp3.1\08GetSet.AssemblyInfoInputs.cache
+C:\POO\08GetSet\obj\Debug\netcoreapp3.1\08GetSet.AssemblyInfo.cs
+C:\POO\08GetSet\obj\Debug\netcoreapp3.1\08GetSet.csproj.CoreCompileInputs.cache
+C:\POO\08GetSet\bin\Debug\netcoreapp3.1\08GetSet.exe
+C:\POO\08GetSet\bin\Debug\netcoreapp3.1\08GetSet.deps.json
+C:\POO\08GetSet\bin\Debug\netcoreapp3.1\08GetSet.runtimeconfig.json
+C:\POO\08GetSet\bin\Debug\netcoreapp3.1\08GetSet.runtimeconfig.dev.json
+C:\POO\08GetSet\bin\Debug\netcoreapp3.1\08GetSet.dll
+C:\POO\08GetSet\bin\Debug\netcoreapp3.1\08GetSet.pdb
+C:\POO\08GetSet\obj\Debug\netcoreapp3.1\08GetSet.dll
+C:\POO\08GetSet\obj\Debug\netcoreapp3.1\08GetSet.pdb
+C:\POO\08GetSet\obj\Debug\netcoreapp3.1\08GetSet.genruntimeconfig.cache

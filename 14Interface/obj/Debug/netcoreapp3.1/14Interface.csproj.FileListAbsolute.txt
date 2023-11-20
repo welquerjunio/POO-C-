@@ -1,0 +1,13 @@
+C:\POO\14Interface\obj\Debug\netcoreapp3.1\14Interface.csprojAssemblyReference.cache
+C:\POO\14Interface\obj\Debug\netcoreapp3.1\14Interface.AssemblyInfoInputs.cache
+C:\POO\14Interface\obj\Debug\netcoreapp3.1\14Interface.AssemblyInfo.cs
+C:\POO\14Interface\obj\Debug\netcoreapp3.1\14Interface.csproj.CoreCompileInputs.cache
+C:\POO\14Interface\bin\Debug\netcoreapp3.1\14Interface.exe
+C:\POO\14Interface\bin\Debug\netcoreapp3.1\14Interface.deps.json
+C:\POO\14Interface\bin\Debug\netcoreapp3.1\14Interface.runtimeconfig.json
+C:\POO\14Interface\bin\Debug\netcoreapp3.1\14Interface.runtimeconfig.dev.json
+C:\POO\14Interface\bin\Debug\netcoreapp3.1\14Interface.dll
+C:\POO\14Interface\bin\Debug\netcoreapp3.1\14Interface.pdb
+C:\POO\14Interface\obj\Debug\netcoreapp3.1\14Interface.dll
+C:\POO\14Interface\obj\Debug\netcoreapp3.1\14Interface.pdb
+C:\POO\14Interface\obj\Debug\netcoreapp3.1\14Interface.genruntimeconfig.cache

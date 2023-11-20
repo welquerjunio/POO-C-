@@ -1,0 +1,13 @@
+C:\POO\11Polimorfismo\obj\Debug\netcoreapp3.1\11Polimorfismo.csprojAssemblyReference.cache
+C:\POO\11Polimorfismo\obj\Debug\netcoreapp3.1\11Polimorfismo.AssemblyInfoInputs.cache
+C:\POO\11Polimorfismo\obj\Debug\netcoreapp3.1\11Polimorfismo.AssemblyInfo.cs
+C:\POO\11Polimorfismo\obj\Debug\netcoreapp3.1\11Polimorfismo.csproj.CoreCompileInputs.cache
+C:\POO\11Polimorfismo\bin\Debug\netcoreapp3.1\11Polimorfismo.exe
+C:\POO\11Polimorfismo\bin\Debug\netcoreapp3.1\11Polimorfismo.deps.json
+C:\POO\11Polimorfismo\bin\Debug\netcoreapp3.1\11Polimorfismo.runtimeconfig.json
+C:\POO\11Polimorfismo\bin\Debug\netcoreapp3.1\11Polimorfismo.runtimeconfig.dev.json
+C:\POO\11Polimorfismo\bin\Debug\netcoreapp3.1\11Polimorfismo.dll
+C:\POO\11Polimorfismo\bin\Debug\netcoreapp3.1\11Polimorfismo.pdb
+C:\POO\11Polimorfismo\obj\Debug\netcoreapp3.1\11Polimorfismo.dll
+C:\POO\11Polimorfismo\obj\Debug\netcoreapp3.1\11Polimorfismo.pdb
+C:\POO\11Polimorfismo\obj\Debug\netcoreapp3.1\11Polimorfismo.genruntimeconfig.cache

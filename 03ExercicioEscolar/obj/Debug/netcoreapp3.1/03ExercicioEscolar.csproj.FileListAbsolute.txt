@@ -1,0 +1,13 @@
+C:\POO\03ExercicioEscolar\obj\Debug\netcoreapp3.1\03ExercicioEscolar.csprojAssemblyReference.cache
+C:\POO\03ExercicioEscolar\obj\Debug\netcoreapp3.1\03ExercicioEscolar.AssemblyInfoInputs.cache
+C:\POO\03ExercicioEscolar\obj\Debug\netcoreapp3.1\03ExercicioEscolar.AssemblyInfo.cs
+C:\POO\03ExercicioEscolar\obj\Debug\netcoreapp3.1\03ExercicioEscolar.csproj.CoreCompileInputs.cache
+C:\POO\03ExercicioEscolar\bin\Debug\netcoreapp3.1\03ExercicioEscolar.exe
+C:\POO\03ExercicioEscolar\bin\Debug\netcoreapp3.1\03ExercicioEscolar.deps.json
+C:\POO\03ExercicioEscolar\bin\Debug\netcoreapp3.1\03ExercicioEscolar.runtimeconfig.json
+C:\POO\03ExercicioEscolar\bin\Debug\netcoreapp3.1\03ExercicioEscolar.runtimeconfig.dev.json
+C:\POO\03ExercicioEscolar\bin\Debug\netcoreapp3.1\03ExercicioEscolar.dll
+C:\POO\03ExercicioEscolar\bin\Debug\netcoreapp3.1\03ExercicioEscolar.pdb
+C:\POO\03ExercicioEscolar\obj\Debug\netcoreapp3.1\03ExercicioEscolar.dll
+C:\POO\03ExercicioEscolar\obj\Debug\netcoreapp3.1\03ExercicioEscolar.pdb
+C:\POO\03ExercicioEscolar\obj\Debug\netcoreapp3.1\03ExercicioEscolar.genruntimeconfig.cache
